@@ -37,6 +37,8 @@ ii)	#Insertion Sort
 ```
 
 ## Output:
+![Screenshot 2023-01-23 200533](https://user-images.githubusercontent.com/121166075/214066834-f828eeec-4e95-4f4a-828f-b2081602e42d.png)
+![Screenshot 2023-01-23 200627](https://user-images.githubusercontent.com/121166075/214066882-dac25171-6814-47aa-a100-09c1e4bf4f18.png)
 
 
 ## Result:
